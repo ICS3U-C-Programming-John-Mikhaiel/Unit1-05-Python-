@@ -1,2 +1,2 @@
 # Unit1-05-Python-
-[![Mr Coxall's Super Linter](https://github.com/ICS3U-C-Programming-John-Mikhaiel/Unit1-05-Python-/<REPOSITORY>/actions/) 
+[![Mr Coxall's Super Linter](https://github.com/ICS3U-C-Programming-John-Mikhaiel/Unit1-05-Python-/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS3U-C-Programming-John-Mikhaiel/Unit1-05-Python-/actions/) 
